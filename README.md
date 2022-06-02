@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @domingoLopezOller
+- 👀 I’m interested in teaching, networks, databases, engineering, software developing
+- 🌱 I’m currently learning Unity and Android
